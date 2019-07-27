@@ -1,5 +1,6 @@
 from flaskblog import create_app
 # some comments
+# add some feature comments
 
 app = create_app()
 

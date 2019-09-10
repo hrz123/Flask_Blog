@@ -1,6 +1,16 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
 site.db
 
 .vscode
 
 .DS_Store
+
+.idea
 
